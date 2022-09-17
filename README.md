@@ -14,4 +14,5 @@ Assignment 1 for COSC 499
 - The files also contain JUnit tests for both the features and can be executed there.
 
 ## Note:
+The result of the tests ran are not printed on the console. Instead, it is notified on the left side of the screen, as can also be seen in the video. Testing was done with the help of JUnit Java extensions in VSCode.
 The ***Coding Pack for Java*** and ***Extension Pack for Java*** plugins were used to enable Java and JUnit in VSCode editor. The instructions for installing the same could be found [here](https://code.visualstudio.com/docs/languages/java).
