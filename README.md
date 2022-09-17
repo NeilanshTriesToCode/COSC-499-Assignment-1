@@ -6,6 +6,8 @@ Assignment 1 for COSC 499
 - **feature-2:** Containing code for feature-2, which has a method called ```pi()``` that returns the product of PI and the given argument. The returned result is cast into an integer. It also contains another method called ```testPi()``` to test the aforementioned method with 3 test cases.
 - **main:** The main branch consists the code merged from the above 2 branches, and this README file.
 
+*Please check the **EXPLANATION** file for detailed info about ```feature-1``` and ```feature-2```.*
+
 ## Instructions:
 - All code is written using Java. Therefore, it can be executed as any other Java program. 
 - The features are coded in their individual files (**feature1.java** and **feature2.java**) and can be executed from there.
