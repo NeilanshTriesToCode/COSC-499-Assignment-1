@@ -11,11 +11,11 @@ public class feature1{
          int arr[] = {3, 2, 5, 8, 11, 1, 0, 100};
 
         // function call
-        sortArray(arr);
+        arraySort(arr);
     }
 
     // function to sort the array
-    public static int[] sortArray(int[] arr){
+    public static int[] arraySort(int[] arr){
         System.out.println("Array before sorting: " + Arrays.toString(arr));
 
         Arrays.sort(arr);
@@ -27,10 +27,10 @@ public class feature1{
 
         // Test function to test the above method
         @Test
-        public void testsortArray(){
-            assertArrayEquals(new int[] {1, 2, 3, 4, 5}, sortArray(new int [] {3, 4, 5, 2, 1}));  // test-case 1
-            assertArrayEquals(new int[] {'a', 'g', 'm', 'p', 'q', 'x', 'z'}, sortArray(new int [] {'x', 'p', 'z', 'a', 'q', 'g', 'm'}));  // test-case 2
-            assertArrayEquals(new int[] {8, 14, 55, 77, 101}, sortArray(new int [] {77, 55, 101, 8, 14}));  // test-case 3
+        public void testArraySort(){
+            assertArrayEquals(new int[] {1, 2, 3, 4, 5}, arraySort(new int [] {3, 4, 5, 2, 1}));  // test-case 1
+            assertArrayEquals(new int[] {'a', 'g', 'm', 'p', 'q', 'x', 'z'}, arraySort(new int [] {'x', 'p', 'z', 'a', 'q', 'g', 'm'}));  // test-case 2
+            assertArrayEquals(new int[] {8, 14, 55, 77, 101}, arraySort(new int [] {77, 55, 101, 8, 14}));  // test-case 3
 
         }
    
