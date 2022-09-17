@@ -1,2 +1,2 @@
 # COSC-499-Assignment-1
-Assignment 1 for COSC 499
+*Please check the **README** in the ```main``` branch for details about this repository.*
