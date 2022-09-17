@@ -4,7 +4,7 @@
     - {3, 4, 5, 2, 1}
     - {'x', 'p', 'z', 'a', 'q', 'g', 'm'}
     - {77, 55, 101, 8, 14}
-   The test passes for all the three cases. 
+  The test passes for all the three cases. 
 - The **feature2.java** in this branch does not have any code. The code for feature-2 can be found in the **feature-2** branch and the **main** branch.
    
  
@@ -14,6 +14,6 @@
     - 3
     - 4
     - 9
-   The test passes for all the three cases. 
+  The test passes for all the three cases. 
 - The **feature1.java** in this branch does not have any code. Likewise, the code for feature-1 can be found in the **feature-1** branch and the **main** branch.
 
